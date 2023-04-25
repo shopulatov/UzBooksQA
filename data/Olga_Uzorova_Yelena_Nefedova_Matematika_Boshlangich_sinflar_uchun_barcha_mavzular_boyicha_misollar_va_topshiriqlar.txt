@@ -1,0 +1,8 @@
+Bu - maktab o‘quvchilariga hisoblash ko‘nikmalarini o‘rgatish uchun noyob qo‘llanmadir. U boshlang‘ich maktab uchun matematika kursining barcha mavzulari bo‘yicha misollar va topshiriqlarni birlashtiradi.
+Qo‘llanma 16 bo‘limdan iborat bo‘lib, ularning har biri alohida mavzuga bag‘ishlangan. Bo‘lim uch qismdan iborat:
+- Tezlik uchun hisoblash ko‘nikmalarini mashq qilish uchun misollar. Sahifada o‘rtacha 35 ta misoldan iborat 3-5 ta ustun mavjud. Ustun oxirida talabaning yechimga sarflagan vaqti yoziladi. Pastki chap burchakda nazorat raqamlari joylashgan: bitta ustundagi misollarni yechish uchun ideal vaqt, qoniqarlilik va natija o‘quvchini o‘ylashga majbur qilishi kerak. Amaliyot shuni ko‘rsatadiki, talaba 4-7 soniya ichida misol yechib, javobni yozsa, mavzuni to‘liq o‘zlashtirgan bo‘ladi. Bunda sanash malakasi avtomatizmga keltiriladi deb hisoblanadi.
+- Nazorat va tekshirish ishlari. Ularning yordami bilan o‘qituvchi o‘quvchilarning hisoblash qobiliyatlarini tezda baholaydi va “zaif” tomonlarini aniqlaydi.
+- Mantiqiy misollar. Bu topshiriqlarni bajarish mantiqiy va matematik fikrlashni, xotirani va diqqatni rivojlantiradi. O‘qituvchining xohishiga ko‘ra, misollar olimpiada ishlarida ham, murakkabligi yuqori bo‘lgan topshiriqlarda ham, o‘tilgan mavzuni takrorlash va mustahkamlash uchun ham ishlatilishi mumkin.
+Qo‘llanma matematika darslarida qo‘shimcha material sifatida, shuningdek, uy vazifalari uchun tavsiya etiladi.
+Kitob 464 betdan iborat.
+2022-yilda chop etilgan.

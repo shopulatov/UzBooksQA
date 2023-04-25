@@ -1,0 +1,9 @@
+Ushbu qo'llanma eng so'ngi 5-6-sinf adabiyot darsliklari bo'yicha tayyorlangan.
+Testlar to'plami 2 qismdan iborat:
+❇️Birinchi qism mavzular ketma-ketligi asosida tuzilgan testlar
+❇️Ikkinchi qism o‘tilgan bo‘limlar bo‘yicha alohida-alohida aralashtirilgan testlar 
+      
+    To'plamning alohida jihatlari
+✅Rasmli testlarning mavjudligi
+✅To‘plamdagi savollarning aksariyat qismi mazmunga qaratilganligi
+2020-yilda chop etilgan.

@@ -1,0 +1,8 @@
+Mazkur qo'llanmada siz fizika fanining Mexanika bo'limiga oid testlarni uchratasiz. Qolgan bo'limga oid testlar yaqin kunlarda qo'lingizda bo'ladi. Xo'sh, qo'llanmada nimalar mujassam?
+✅ 300 ga yaqin rasmli testlar;
+✅ Har bir bo'lim oxirida yakuniy takrorlash testlar;
+✅ 1996 yildan 2019 yilgacha DTM imtixonlarida foydalanilgan o'rtacha darajadagi qiziqarli testlar.
+ 
+To'plamdagi testlar zina kabi tuzilishga ega. Boshlang'ich mavzulardagi testlar sodda bo'lib, testlar darajasi keyingi mavzularda qiyinlashib boradi.
+Maqsadingiz o’zingizni sinash, bilimizngizga haqqoniy baho berish va talabalik baxtiga erishish bo’lsa,ushbu to'plam aynan siz uchun!
+2020-yilda chop etilgan.

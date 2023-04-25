@@ -1,0 +1,4 @@
+Berilgan monografiyada Soft Computingni loyihalashtirish nazariyasining asoslari bayon etilgan. Kitobda Soft Computingni tashkil etuvchi-noravshan to'plamlar nazariyasi, noravshan joriy axborot asosida sust shakllangan jarayonlarni modellashtirishning xususiyatlari va tamoyillari ko'rib chiqilgan.
+Soft Computing texnologiyalari asosida muqobillashtirish va qaror qabul qilishga mo'ljallab qurilgan amaliy intellektual tizimlar ko'rib chiqilgan. Kitob avtomatlashtirilgan boshqaruv tizimlari, informatika va sun'iy intellekt sohasidagi studentlar va mutaxassislarga mo'ljallangan.
+Kitob 315 betdan iborat.
+2020-yilda chop etilgan.

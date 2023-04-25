@@ -1,0 +1,3 @@
+Mazkur ishda sust shakllangan jarayonlarni noravshan modellarini kurishning nokorrekt masalalarini yechish usul va algoritmlari kabi dolzarb nazariy-uslubiy masalalar ko‘rib chikilgan. Qo‘llanilayotgan matematik apparatning noanʼanaviyligi xisobiga kitobda noravshan kattaliklar va Z-sonlar asosida modellashtirish masalalarini tizimlashtirilgan izohiga katta eʼtibor karatiladi. Izoh qatʼiy, ayni vaqtda tushunarli shaklda olib boriladi. Hamma asosiy holat va amallar ko‘pgina misollar bilan tasvirlanadi.Kitob keng doiradagi o‘quvchilar, shu jumladan, amaliy matematika buyicha mutaxassislar, injenerlar, hamda tizimlar nazariyasi, qaror kabul qilishning umumiy masalalariga qiziquvchi shaxslarga mo‘ljallangandir.
+Kitob 216 betdan iborat.
+2018-yilda chop etilgan.

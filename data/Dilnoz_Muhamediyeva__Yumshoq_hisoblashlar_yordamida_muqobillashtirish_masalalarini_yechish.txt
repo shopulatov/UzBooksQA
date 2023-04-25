@@ -1,0 +1,4 @@
+Mazkur ishda monitoring hamda qaror qabul qilishning gibrid intellektual tizimlarini qurish usul va algoritmlari kabi dolzarb nazariy-uslubiy masalalar ko‘rib chiqilgan. Qo‘llanilayotgan matematik apparatning noanʼanaviyligi hisobiga kitobda noravshan kattaliklar va genetik algoritmlar asosida modellashtirish masalalarini tizimlashtirilgan izohiga katta eʼtibor karatiladi Izox qatiy, ayni vaqtda tushunarli shaklda olib boriladi. Hamma asosiy xolat va amallar ko‘pgina misollar bilan tasvirlanadi.
+Kitob keng doiradagi o‘kuvchilar, shu jumladan, amaliy matematika bo‘yicha mutaxassislar, injenerlar, xamda matematik iktisodiyot, tizimlar nazariyasi, qaror qabul qilishning umumiy masalalariga qiziquvchi shaxslarga mo‘ljallangandir.
+Kitob 281 betdan iborat.
+2015-yilda chop etilgan.

@@ -1,0 +1,5 @@
+Ona tilimiz yer yuzidagi eng qadimiy, boy va serjilo lisonlardan biri. Uni chuqur o'rganganimiz sari go'zal nafosati va latifligi namoyon boʻlib boraveradi. Butun dunyo o'zbeklari onadek e'zozlaydigan ushbu tilni mukammal o'zlashtirish, barcha qoidalaridan boxabar bo'lish nafaqat biz, balki avlodlarimiz uchun ham xayrlidir. Zero, til - millatning ruhi! Shuningdek, millatning, milliy qadriyatlarning kelgusi asrlarda ham barhayotligi garovi hamdir!
+Rustamjon O'rinov va Sadoqat Xolmonova tomonidan nashrga «Ona tili: mukammal testlar to'plami» qo'llanmasida keltirilgan testlar o'zbek tilining barcha bo'lim va mavzularini o'z ichiga qamrab olgan. Savollar oddiylikdan murakkablikka tomon o'sib boradi, ba'zan chalg'itadi, goho o'ylantiradi. Ushbu turdagi qo'llanmalardan alohida jihati, test savollari orqali o'quvchi hushyorlikka, ziyraklikka, chuqur mulohaza yuritishga chorlanadi.
+Mazkur to'plam maktab o'quvchilari, abituriyentlar va ona tilidan o'z bilimlarini sinab ko'rish va yanada rivojlantirishni istagan o'quvchilar uchun mo'ljallangan.
+Kitob 320 betdan iborat.
+2022-yilda chop etilgan.

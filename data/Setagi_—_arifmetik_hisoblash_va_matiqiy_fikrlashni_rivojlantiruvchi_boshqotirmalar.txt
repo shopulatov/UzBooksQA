@@ -1,0 +1,4 @@
+Setagi — arifmetik hisoblash va matiqiy fikrlashni rivojlantiruvchi boshqotirma o'yini. Gorizontal va vertikal matematik tengliklar to'g'ri bo'lishi uchun 1 dan 9 gacha bo'lgan sonlarni o'rinlarini topish zarur.
+👉 Ushbu qiziqarli topshiriqlarning javoblarini kitobda berilgan QR kodlar orqali tekshirish mumkin.
+Kitob 160 betdan iborat.
+2022-yilda chop etilgan.

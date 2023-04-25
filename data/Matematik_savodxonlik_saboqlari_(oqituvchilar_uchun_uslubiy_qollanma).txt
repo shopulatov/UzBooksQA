@@ -1,0 +1,4 @@
+Mazkur metodik qo‘llanma matematika fanining asosiy tushuncha va atamalari, masala va misollarni yechish usullari, algoritmlar, matematik kattaliklar, geometriya, kombinatorika, diagrammalarga oid tushunchalarni o‘quvchilarga yetkazishda o‘qituvchilarning eng katta “yordamchisi” bo‘la oladi. Qo‘llanmada matematik tushunchalarning taʼrifi bilan birga ularning paydo bo‘lish tarixi, amaliy ahamiyatiga tegishli maʼlumotlarning berilgani soha mutaxassislari uchun asosiy va qo‘shimcha darslarni olib to‘garak mashg‘ulotlarini tashkil qilish, matematika fanidan ochiq dars, tanlov va tadbirlarni o‘tkazishda qo‘shimcha o‘quv materiali vazifasini o‘taydi.
+Ushbu qo‘llanma boshlang‘ich va yuqori sinf o‘qituvchilari, o‘quvchilar va ularning ota-onalari uchun mo‘ljallangan.
+Kitob 128 betdan iborat.
+2020-yilda chop etilgan.
