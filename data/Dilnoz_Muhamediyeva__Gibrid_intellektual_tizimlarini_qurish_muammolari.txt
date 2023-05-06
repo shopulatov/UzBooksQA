@@ -1,4 +1,0 @@
-Mazkur ishda gibrid intellektual tizimlarini kurish usulna algoritmlari kabi dolzarb nazariy-uslubiy masalalar kurib chikilgan. noanʼanaviyligi xisobiga kitobda noravshan kattaliklar va genetik algoritmlar asosida modellashtirish masalalarini tizimlashtirilgan izohiga katta eʼtibor qaratiladi. Izox qatʼiy, ayni vaqtda tushunarli shaklda olib boriladi. Hamma asosiy xolat va amallar ko‘pgina misollar bilan tasvirlanadi. apparatning
-Kitob keng doiradagi o‘quvchilar, shu jumladan, amaliy matematika bo‘yicha mutaxassislar, injenerlar, hamda matematik iqtisodiyot, tizimlar nazariyasi, qaror qabul qilishning umumiy masalalariga qiziquvchi shaxslarga mo‘ljallangandir.
-Kitob 292 betdan iborat.
-2021-yilda chop etilgan.

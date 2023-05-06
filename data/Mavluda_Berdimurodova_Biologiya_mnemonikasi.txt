@@ -1,6 +1,0 @@
-Ushbu kitob 5-6-sinf botanika va 7-sinf zoologiya darslari asosida tuzilgan.
-Botanikaga bag'ishlangan qismida kerakli ma'lumotlar o'simliklar nomi ostida alfabit ketma-ketligida joylashtirilgan bo'lib, muhim qoidalar, ta'riflar raqamlar tartibida berilgan.
-  
-Zoologiyaga oid bo'limida hayvonlarning ichki va tashqi tuziliga doir ma'lumotlar umumlashtirilib, o'xshashlik va farqlari bilan birga berilgan.
-Kitobning eng foydali va muhum tomoni DTM tomonidan tuzilgan testlarni oson va 100% to'g'ri yechishga yordam beradi.
-2020-yilda chop etilgan.

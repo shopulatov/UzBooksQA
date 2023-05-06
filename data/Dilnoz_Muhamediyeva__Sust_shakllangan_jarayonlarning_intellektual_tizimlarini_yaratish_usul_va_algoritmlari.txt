@@ -1,4 +1,0 @@
-Monografiyada sust shakllangan jarayonlarning intellektual tizimlarni yaratish, ularni noravshan axborotni qayta ishlash asosida hamda neyron to‘rlar va evolyutsion algoritmlar yordamida amaliyotga tadbiq etish kabi dolzarb nazariy-uslubiy masalalar ko‘rib chiqilgan. Qo‘llanilayotgan matematik apparatning noanʼanaviyligi hisobiga kitobda noravshan kattaliklar, neyron to‘rlar va evolyutsion algoritmlar asosida modellashtirish masalalarini tizimlashtirilgan izohiga katta eʼtibor qaratiladi. Izoh qatʼiy, ayni vaqtda tushunarli shaklda olib boriladi. Hamma asosiy holat va amallar ko‘pgina misollar bilan tasvirlanadi.
-Kitob keng doiradagi o‘quvchilar, shu jumladan, amaliy matematika bo‘yicha mutaxassislar, injenerlar, hamda matematik iqtisodiyot, tizimlar nazariyasi, qaror qabul qilishning umumiy masalalariga qiziquvchi shaxslarga mo‘ljallangandir.
-Kitob 348 betdan iborat.
-2023-yilda chop etilgan.

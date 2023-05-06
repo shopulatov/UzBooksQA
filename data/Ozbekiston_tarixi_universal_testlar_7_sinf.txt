@@ -1,4 +1,0 @@
-Kitobda nimalar mujassam?
-— Ushbu kitobdagi testlarni bir so’z bilan mavzulashtirilgan aralash testlar deb atasak bo’ladi. Chunki testlar  ketma-ket kelgan 4 yoki 5 ta mavzu bo’yicha aralash tarzda tuzilgan. (Masalan, birinchi savol beshinchi mavzuga doir bo’lsa, ikkinchi savol birinchi mavzuga oiddir).
-Ketma-ket kelgan 4, 5 ta mavzu doirasida tuzilgan testlarda rasmli, jadvalli va xaritali testlar mavjud.
-Bundan tashqari, kitobimizning oxirgi qismida butun kitob bo'yicha aralash 30 talik testlar ham mavjud.

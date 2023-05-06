@@ -1,4 +1,0 @@
-Ushbu kitob orqali ingliz tilidagi barcha mavzularga doir testlar bilan tanishishingiz mumkin.  Har bir mavzuga Davlat Test Markazi testlari darajasida bo'lgan testlar kiritilgan. Hamma mavzuga doir testlar osonlik darajasidan qiyinlik darajasiga qarab ko'tarilib boradi.
-Shuningdek, ushbu kitobda 2020-yilda abiturientlar uchun taqdim etilgan testlardan namunalar ko'rishingiz va o'zingizni sinab ko'rishingiz mumkin.
-Bundan tashqari, mavzular to'liq yakunlanganida "MIX BOOM testlar 30 talik grammatik hamda matn savollari va TIME TESTS sizga havola etiladi.
-2020-yilda chop etilgan.

@@ -1,7 +1,0 @@
-Hozirgacha tabiiy hodisalarni modellashtiradigan eng muhim matematik tuzilmalardan biri bo‘lgan Fibonachchi ketma-ketligi faqat narxlarning o‘zgarishidagi tuzatishlar va cho‘zilishlarni baholash uchun qo‘llangan. Unda Elliott to‘lqinidan hamda Fibonachchi raqamlaridan foydalanish metodi va tamoyillariga yangicha nazar bilan qaraladi. Kitobda ishlab chiqilgan eng yaxshi yondashuvlar berilgan bo‘lib, ularning har biri ishonchli, aniq, tartiblangan savdo instrumentini shakllantiradi va quyidagilarga imkon beradi:
-narx va vaqtni aniq tahlil qilish;
-moliya bozorining yuqori va pastki qismlarini aniqlash;
-iqtisodiy sikllar va tadbirkorlik faoliyati sikllarini bashorat qilish.
-Rus tilidan Dilshodbek Tursunaliyev tarjimasi
-Kitob 208 betdan iborat.
-2022-yilda chop etilgan.

@@ -1,4 +1,0 @@
-Ushbu kitob zamonaviy dasturlashni o'rganmoqchi bo'lganlar, dasturlash bilan shug'ullanadiganlar va hatto dasturiy ta'minot yaratish bo'yicha yetuk mutaxassislarga ham mo'ljallangan bo'lib, ilm olish va uni mustahkamlash uchun eng kerakli bo'ladigan zaruriy bilimlarni o'zida jamlagan hamma sodda tushunarli tilda bayon etilgan. Ortiqcha ma'lumotlar o'rniga o'n yillab yig'ilgan tajribalardan foydalanib aniq ko'rsatmalar keltirilgan. Kitobdagi ma'lumotlarni o'zlashtirgan o'quvchi malakali veb-dizayner sifatida keng faoliyat yuritishdan tashqari nafaqat "front-end" (timusti) dasturlovchi bo'lishi mumkin, balki to'laqonli veb-dasturiy ta'minot yaratish borasida yetuk bilimlarga ham ega bo'ladi.
-Kitobda yoritilgan mavzular bo'yicha fikr-mulohazalar, takliflar, savollar hamda o'z amaliy dasturlash faoliyatingizda muamolar yuzaga kelsa, ilm.yurt.uz sayti orqali murojaat qilishingiz mumkin.
-Kitob 300 betdan iborat.
-2021-yilda chop etilgan.

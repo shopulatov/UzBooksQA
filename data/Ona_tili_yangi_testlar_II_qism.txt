@@ -1,8 +1,0 @@
-Mazkur to’plam 12 ta bo‘limni o‘z ichiga olgan bo‘lib, unda shu bo‘limlarga tegishli bo‘lgan eng yangi testlar DTM darajasida tuziladigan qoidalar asosida shakllantirilgan va mukammal qilib mavzulashtirilgan.
-To‘plamning qulayliklari:
-✅Mazkur to’plam orqali har qanday so‘z turkumini qay darajada      o‘zlashtirganingizni aniq bilib olasiz.
- ✅Har bir mavzu bo’yicha kamida 500-600 ta test yechish imkoniga ega bo’lasiz.
- ✅Har bir bo’lim so’ngida o’sha bo’lim asosida tuzilgan mukammal variantlarni yechish orqali o’z bilimingizni yanada mustahkamlab borasiz.
- ✅To’plamdagi testlar yangilangan maktab darsliklari asosidagi tuzilgan.
- ✅Har bitta yangilangan darslikdagi ma’lumotlarga alohida e’tibor qaratilgan.
- ✅Mazkur to‘plamda eng sara va yangi testlar o’rin olgan.

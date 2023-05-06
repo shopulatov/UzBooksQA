@@ -1,3 +1,0 @@
-Qo’llanma eng yangi darsliklar asosida tayyorlangan. Testga tushish ehtimoli bo’lgan jumlalar, so’zlar, va gaplar alohida qilib belgilab chiqilgan. (Qoraytirilib, qiyaroq qilib, nomerlab). Test tuzishni imkoni yoq joylar esa oddiy usulda yozilgan.
-Qo'llanma kimlar uchun?
-Mazkur kitob tarixni birinchi marta o’qiyotganlar, oldin bir necha marta o’qiganlar, tarixni mustaqil o’rganuvchilar va o’qituvchi-repititorlar uchun juda ham qulay usulda tayyorlangan.

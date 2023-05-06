@@ -1,9 +1,0 @@
-Kitobda nimalar mujassam?
-📕Ushbu kitob 6-sinf Qadimgi dunyo tarixi bo'yicha tayyorlangan bo'lib, quyidagi testlar iborat:
-✅Mavzulashtirilgan
-✅Boblashtirilgan
-✅Rasmli
-✅Jadvalli
-✅Aralash
-Mazkur kitobda DTM testlari darajasidagi  2000 ga yaqin testlar mavjud.
-Maqsadimiz bilimingiz darajasini aniqlashda sizga yaqindan ko'maklashish va xatolardan tog'ri xulosa chiqarishingizga yordamlashishdir.

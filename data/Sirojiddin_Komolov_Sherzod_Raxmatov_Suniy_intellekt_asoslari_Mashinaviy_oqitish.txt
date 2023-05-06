@@ -1,3 +1,0 @@
-Ushbu kitob sun’iy intellektning mashinaviy o‘qitish yo‘nalishi haqidagi qo‘llanma bo‘lib, mashinaviy o‘qitish asoslarini o‘zida qamrab oladi. Qo‘llanma o‘zida bir qancha mashinaviy o‘qitish algoritmlarini jamlagan bo‘lib, har bir algoritmni yoritishda nazariy bilim bilan birgalikda, amaliy mashg‘ulot ham berib boriladi. Kitobda keltirilgan bilimlarni egallashda oliy matematika asoslari hamda Python dasturlash tili ko‘nikmalari talab etiladi.
-Kitob 104 betdan iborat.
-2022-yilda chop etilgan.

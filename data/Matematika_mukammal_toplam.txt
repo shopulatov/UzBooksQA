@@ -1,5 +1,0 @@
-Mazkur qo‘llanma algebraning barcha mavzularini qamrab olgan. Mavzular 3 ta qismdan iborat:
-✅Mavzu ma’ruza ko‘rinishida berilgan. Har bir mavzudagi alohida e’tibor berilishi yoki yodlanishi kerak bo‘lgan joylari alohida belgilangan (yotiq chiziq yoki qalin yozuv bilan). Formulalarni yodlash oson bo‘lishi uchun ularning isbotlari keltirilgan.
-✅Har bir mavzuga doir misollarning yechilishi berilgan.
-✅Mavzuni mustahkamlash uchun har bir mavzu bo‘yicha misollar berilgan. Misollar 20 tadan 180 tagacha miqdorni o‘z ichiga oladi. Shuningdek, kitobning oxirida misollarning javoblari berilgan bo‘lib, bu o‘quvchi uchun qulaydir.
-2020-yilda chop etilgan.
