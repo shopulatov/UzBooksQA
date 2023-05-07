@@ -40,6 +40,6 @@ The Open Domain QA system developed for Asaxiy Books provides an efficient and a
 Future work on this system could involve improving the accuracy of the models used for QA, as well as incorporating additional features such as question generation and summarization.
 
 ## Authors
-<a href="https://www.linkedin.com/in/abrorshopulatov/">Abror Shopulatov</a>
-<a href="https://www.linkedin.com/in/navfalbek/">Navfalbek Makhfuzullaev</a>
-<a href="https://www.linkedin.com/in/samir-irgashev-47522717a/">Samir Irgashev</a>
+[Abror Shopulatov](https://www.linkedin.com/in/abrorshopulatov/)
+[Navfalbek Makhfuzullaev](https://www.linkedin.com/in/navfalbek/)
+[Samir Irgashev](https://www.linkedin.com/in/samir-irgashev-47522717a/)
